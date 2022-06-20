@@ -1,8 +1,8 @@
 /*background colour and  margin defination*/ 
 *{
     background-color: rgb(230, 220, 164);
-    margin-left: 60px;
-    margin-right: 60px;
+    margin-left: 50px;
+    margin-right: 50px;
     font-family: 'Gentium Plus', serif;
 }
 
@@ -25,7 +25,7 @@ h1,.headings{
 }
 /*center aligning the image and making it smaller*/
 img{
-    width: 450px;
+    width: 400px;
     height: auto;
     display: block; /*how the image is displayed, display block isolates the image in its own line*/ 
     margin-left: auto;/*the aligns the image to the center*/
