@@ -1,0 +1,44 @@
+/*background colour and  margin defination*/ 
+*{
+    margin-left: 60px;
+    margin-right: 60px;
+    font-family: 'Gentium Plus', serif;
+}
+
+/*centered heading, fontsize and alignment*/ 
+h1{
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Playball', cursive; /*the added font in the head section*/ 
+  
+}
+/*h1 and headings common color grouping*/
+h1,.headings{
+    color: rgb(155, 41, 66);
+}
+/*heading edits*/
+.headings{
+    font-family: 'Gentium Plus', serif;
+
+}
+/*center aligning the image and making it smaller*/
+img{
+    width: 800px;
+    height: auto;
+    display: block; /*how the image is displayed, display block isolates the image in its own line*/ 
+    margin-left: auto;/*the aligns the image to the center*/
+    margin-right: auto
+}
+/*changing the colours of anchors*/
+a{
+    color: rgb(116, 27, 82);
+}
+.right{
+    text-align: right;
+    display: block;
+}
+.left{
+    text-align: left;
+    
+}

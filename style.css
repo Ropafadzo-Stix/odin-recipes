@@ -1,15 +1,18 @@
 *{
     text-align: center;
-    background-color: black;
+    background-color: rgb(118, 196, 30);
 }
 h1{
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Playball', cursive; /*the added font in the head section*/;
     color: fuchsia;
     font-weight: 400;
+    font-size: 80px;
     
 }
 a{
     font-style: italic;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: cyan;
+    font-family: 'Gentium Plus', serif;
+    color: rgb(28, 45, 78);
+    font-size: 26px;
+    
 }
